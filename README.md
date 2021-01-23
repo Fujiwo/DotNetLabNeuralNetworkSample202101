@@ -3,4 +3,4 @@
 
 Source Code
 
-* [.NET Lab Study Meeging Jan. 2021](https://dotnetlab.connpass.com/event/199890/)
+* [.NET Lab Study Meeging Jan. 2021](https://dotnetlab.connpass.com/event/199890/) (Japanese)
